@@ -23,6 +23,8 @@ example:
         viewportFraction: 0.80,
       )
 ```
+create assets folder in your root project and create into assets folder images folder and put your images in this folder.
+add in pubspec.yaml assets/images and put it to custom model
 
 Custom model:
 
