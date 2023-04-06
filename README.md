@@ -26,6 +26,10 @@ example:
 create assets folder in your root project and create into assets folder images folder and put your images in this folder.
 add in pubspec.yaml assets/images and put name it to custom model
 
+`assets/images`
+
+just put name of image to the model
+
 Custom model:
 
 ```dart
