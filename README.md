@@ -16,7 +16,7 @@ To use this package, add animated_page_view_scrolling as a dependency in your pu
 example:
 
 ```dart
-    AnimatedPageView(
+    AnimatedPageViewScrolling(
         myModel: modelValue1,
         heightMainPageView: 400,
         heightItem: 320,
