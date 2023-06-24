@@ -1,5 +1,6 @@
 library animated_page_view_scrolling;
 
+import 'package:animated_page_view_scrolling/enum.dart';
 import 'package:flutter/material.dart';
 
 import 'image_card.dart';
@@ -9,23 +10,27 @@ class AnimatedPageViewScrolling extends StatefulWidget {
   final List<dynamic> myModel;
   final double? heightItem;
   final double heightMainPageView;
+  final ImageMode imageMode;
 
   const AnimatedPageViewScrolling(
       {Key? key,
       this.viewportFraction,
       required this.myModel,
       this.heightItem,
-      required this.heightMainPageView})
+      required this.heightMainPageView,
+      required this.imageMode})
       : super(key: key);
 
   @override
-  State<AnimatedPageViewScrolling> createState() => _AnimatedPageViewScrollingState();
+  State<AnimatedPageViewScrolling> createState() =>
+      _AnimatedPageViewScrollingState();
 }
 
 class _AnimatedPageViewScrollingState extends State<AnimatedPageViewScrolling> {
   late final PageController pageController =
       PageController(viewportFraction: widget.viewportFraction ?? 0.90);
   int currentpage = 0;
+
   @override
   Widget build(BuildContext context) {
     return SizedBox(
@@ -44,6 +49,7 @@ class _AnimatedPageViewScrollingState extends State<AnimatedPageViewScrolling> {
               index: index,
               myModel: widget.myModel[index],
               height: widget.heightItem,
+              imageMode: widget.imageMode,
             ),
           );
         },

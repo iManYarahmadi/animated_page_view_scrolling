@@ -1,4 +1,5 @@
 import 'package:animated_page_view_scrolling/animated_page_view_scrolling.dart';
+import 'package:animated_page_view_scrolling/enum.dart';
 import 'package:flutter/material.dart';
 
 import 'newmodel.dart';
@@ -43,6 +44,7 @@ class _HomePageState extends State<HomePage> {
         heightMainPageView: 400,
         heightItem: 320,
         viewportFraction: 0.80,
+        imageMode: ImageMode.network,
       )),
     );
   }
