@@ -62,8 +62,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AydinGolMohammadi"><img src="https://avatars.githubusercontent.com/u/117850360?v=4" width="100px;" alt=""/><br /><sub><b>Aydin Golmohammadi</b></sub></a><br /><a href="https://github.com/iManYarahmadi/animated_page_view_scrolling/commits?author=EhsanAramide" title="Code">💻</a> <a href="https://github.com/iManYarahmadi/animated_page_view_scrolling?author=EhsanAramide" title="Documentation">📖</a> <a href="#example-aydingolmohammadi" title="Examples">💡</a> <a href="#maintenance-aydingolmohammadi" title="Maintenance">🚧</a> <a href="https://github.com/iManYarahmadi/animated_page_view_scrolling/pull/2" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/iManYarahmadi/animated_page_view_scrolling?author=EhsanAramide" title="Tests">⚠️</a></td>
-    </sub></a><br /><a href="#ideas-ali-master" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ali-master" title="Maintenance">🚧</a> <a href="#projectManagement-ali-master" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/AydinGolMohammadi"><img src="https://avatars.githubusercontent.com/u/117850360?v=4" width="100px;" alt=""/><br /><sub><b>Aydin Golmohammadi</b></sub></a><br /><a href="https://github.com/iManYarahmadi/animated_page_view_scrolling/commits?author=EhsanAramide" title="Code">💻</a> <a href="https://github.com/iManYarahmadi/animated_page_view_scrolling?author=EhsanAramide" title="Documentation">📖</a> <a href="#example-aydingolmohammadi" title="Examples">💡</a> <a href="#maintenance-aydingolmohammadi" title="Maintenance">🚧</a> <a href="https://github.com/iManYarahmadi/animated_page_view_scrolling/pull/2" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/iManYarahmadi/animated_page_view_scrolling?author=aydingolmohammadi" title="Tests">⚠️</a></td>
+    </sub></a><br /></td>
   </tr>
 </table>
 
