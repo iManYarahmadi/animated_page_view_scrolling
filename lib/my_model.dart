@@ -1,8 +1,6 @@
 
 class MyModel {
   String? image;
-
-
   MyModel({this.image});
 }
 
