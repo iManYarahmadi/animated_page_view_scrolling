@@ -21,6 +21,8 @@ example:
         heightMainPageView: 400,
         heightItem: 320,
         viewportFraction: 0.80,
+        imageMode: ImageMode.network,
+
       )
 ```
 create assets folder in your root project and create into assets folder images folder and put your images in this folder.
